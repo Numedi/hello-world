@@ -1,2 +1,3 @@
 # hello-world
-Tutorial repository
+Tutorial repository ;
+PhD student in scientific computing learning about git hub
